@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "author": "motion-canvas",
   "homepage": "https://motioncanvas.io/",
-  "bugs": "https://github.com/motion-canvas/motion-canvas/issues",
+  "bugs": "https://github.com/smarty-code/motionCanvasCore/issues",
   "license": "MIT",
   "scripts": {
     "dev": "tspc -p tsconfig.build.json -w",
@@ -16,7 +16,7 @@
   "sideEffects": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/motion-canvas/motion-canvas.git"
+    "url": "https://github.com/smarty-code/motionCanvasCore.git"
   },
   "files": [
     "lib",

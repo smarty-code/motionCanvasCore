@@ -4,7 +4,7 @@
   "description": "A 2D renderer for Motion Canvas",
   "author": "motion-canvas",
   "homepage": "https://motioncanvas.io/",
-  "bugs": "https://github.com/motion-canvas/motion-canvas/issues",
+  "bugs": "https://github.com/smarty-code/motionCanvasCore/issues",
   "license": "MIT",
   "main": "lib/index.js",
   "types": "./lib/index.d.ts",
@@ -19,7 +19,7 @@
   "sideEffects": false,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/motion-canvas/motion-canvas.git"
+    "url": "git+https://github.com/smarty-code/motionCanvasCore.git"
   },
   "files": [
     "lib",

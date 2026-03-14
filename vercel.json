@@ -1,0 +1,6 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "installCommand": "npm install",
+  "buildCommand": "npm run core:bundle && npm run 2d:bundle && npm run player:build && npm run docs:build",
+  "outputDirectory": "packages/docs/build"
+}

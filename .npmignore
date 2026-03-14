@@ -1,0 +1,50 @@
+# VCS and editor
+.git
+.gitignore
+.gitattributes
+.github
+.vscode
+.idea
+
+# Tooling and local env
+.husky
+.nx
+.vercel
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Docs, examples, tests and non-publishable workspaces
+packages/docs
+packages/examples
+packages/e2e
+packages/template
+packages/internal
+
+# Build artifacts and caches
+**/.cache
+**/coverage
+**/.turbo
+**/.docusaurus
+**/*.tsbuildinfo
+
+# Source and test files (for package-level publish scenarios)
+**/src
+**/__tests__
+**/*.test.*
+**/*.spec.*
+
+# Development configs
+**/vitest.config.*
+**/vite.config.*
+**/rollup.config.*
+**/rollup.editor.*
+**/tsconfig*.json
+
+
+src
+tests
+.vscode
+node_modules
